@@ -1,0 +1,6 @@
+2022-10-27T17:14:28.608Z [delivery-api] info: API Started!
+2022-10-27T17:14:57.539Z [delivery-api] info: GET /pedido
+2022-10-27T17:15:05.321Z [delivery-api] info: GET /pedido/:id
+2022-10-27T17:15:07.712Z [delivery-api] info: GET /pedido/:id
+2022-10-27T17:15:09.800Z [delivery-api] info: GET /pedido/:id
+2022-10-27T17:15:13.095Z [delivery-api] info: GET /pedido/:id
